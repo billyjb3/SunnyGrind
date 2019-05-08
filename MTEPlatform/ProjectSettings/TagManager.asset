@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawner
+  - Enemy
+  - Item
+  - Gold
+  - PlayerProjectile
+  - EnemyProjectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Foreground
+  - Level
+  - Enemy
+  - Player
+  - Spawn
+  - PlayerHitbox
+  - PlayerProjectiles
+  - Items
+  - EnemyProjectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4203797885
+    locked: 0
+  - name: Foreground
+    uniqueID: 3893712509
+    locked: 0
+  - name: Tiles
+    uniqueID: 2981883239
+    locked: 0
+  - name: Entities
+    uniqueID: 3132728039
+    locked: 0

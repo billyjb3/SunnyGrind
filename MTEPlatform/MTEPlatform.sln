@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTEPlatform", "Assembly-CSharp.csproj", "{AD6E8983-9664-CCAD-BF0B-A450EE5383AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTEPlatform", "Assembly-CSharp-Editor.csproj", "{6DEFBE2A-FB85-56C1-7A22-ADCA4703BEA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD6E8983-9664-CCAD-BF0B-A450EE5383AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6E8983-9664-CCAD-BF0B-A450EE5383AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6E8983-9664-CCAD-BF0B-A450EE5383AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6E8983-9664-CCAD-BF0B-A450EE5383AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEFBE2A-FB85-56C1-7A22-ADCA4703BEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEFBE2A-FB85-56C1-7A22-ADCA4703BEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEFBE2A-FB85-56C1-7A22-ADCA4703BEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEFBE2A-FB85-56C1-7A22-ADCA4703BEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
